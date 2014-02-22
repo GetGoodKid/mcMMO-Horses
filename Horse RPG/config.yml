@@ -1,0 +1,21 @@
+######################################################
+#                                                    #
+#                Horse RPG Config 2.0                #
+#                                                    #
+######################################################
+
+# Chat Configuration
+chat-prefix: "&3[Horse RPG]&a "
+use-prefix: true
+
+# Save Interval (20 ticks = 1 second, 24000 ticks = 20 minutes)
+save-interval: 24000
+
+# Horse Death Timer (in seconds)
+horse-death-timer: 120
+
+# Sprint Cooldown (in seconds)
+sprint-cooldown: 20
+
+# Health Regeneration Cooldown (in seconds)
+regen-cooldown: 20
