@@ -1,4 +1,4 @@
-Horse-RPG
+mcmmo-Horses
 =========
 
-A repository for the Bukkit plugin Horse RPG.
+A repository for the Bukkit plugin mcMMO Horses.
